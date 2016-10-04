@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi everyone,
+Abhinav here, I like programming in c.
